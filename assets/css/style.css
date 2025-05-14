@@ -2,3 +2,6 @@ body {
     background-color: lightgrey;
     background-image: url(../images/trees.jpg);
 }
+h2 {
+    color:orangered
+}
